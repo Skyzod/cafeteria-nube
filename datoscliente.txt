@@ -2,3 +2,6 @@ DATOS CLIENTES
 Nºcliente:1
 Nombre: cliente1
 Direccion: calle1
+Nºcliente:2
+Nombre: cliente2
+Direccion: calle2
