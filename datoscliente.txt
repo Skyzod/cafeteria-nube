@@ -1,0 +1,4 @@
+DATOS CLIENTES
+Nºcliente:1
+Nombre: cliente1
+Direccion: calle1
